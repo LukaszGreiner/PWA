@@ -1,0 +1,24 @@
+{
+    "name": "PWA Full name",
+    "short_name": "PWA Sname",
+    "theme_color": "yellow",
+    "background_color": "green",
+    "start_url": "./",
+    "id": "demo-1",
+    "display": "standalone",
+    "scope": "./",
+    "icons": [
+       {
+          "src": "pwa_icon_512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+       },
+       {
+          "src": "pwa_icon_512x512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "maskable"
+       }
+     ]
+  }
+  
